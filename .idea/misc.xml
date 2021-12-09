@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/labai/Documents/epsi/ProjetEpsi/app/src/main/res/layout/activity_base.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/labai/Documents/epsi/ProjetEpsi/app/src/main/res/layout/activity_categories.xml" value="0.33" />
         <entry key="..\:/Users/labai/Documents/epsi/ProjetEpsi/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/labai/Documents/epsi/ProjetEpsi/app/src/main/res/layout/activity_splash.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/labai/Documents/epsi/ProjetEpsi/app/src/main/res/layout/activity_student.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/labai/Documents/epsi/ProjetEpsi/app/src/main/res/layout/activity_students.xml" value="0.33" />
+        <entry key="..\:/Users/labai/Documents/epsi/ProjetEpsi/app/src/main/res/layout/cell_category.xml" value="0.33" />
         <entry key="..\:/Users/labai/Documents/epsi/ProjetEpsi/app/src/main/res/layout/layout_header.xml" value="0.33" />
       </map>
     </option>

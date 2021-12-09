@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".StudentActivity">
+
+    <include
+        layout="@layout/layout_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        app:srcCompat="@drawable/loic_labaisse"
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_height="236dp"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/textInfo"
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/information_sur_l_tudiants"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/nameandlastname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:text="@string/etudiant_one"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/email"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:text="@string/email"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/groupe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:text="@string/groupe"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/linkEpsi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:text="@string/link"
+                android:textSize="20dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

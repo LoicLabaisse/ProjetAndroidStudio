@@ -3,4 +3,14 @@
     <string name="title_epsi">Epsi</string>
     <string name="etudiants_main">Etudiants</string>
     <string name="shop_main">Shop</string>
+    <string name="student_title">Loïc<br /> Éudiants B3 Dev2 </string>
+    <string name="information_sur_l_tudiants">Information sur L\'Étudiants</string>
+    <string name="etudiant_one">Labaisse Loïc</string>
+    <string name="email">coucou@gmail.com</string>
+    <string name="groupe">B3 groupe Dev2</string>
+    <string name="link">https://www.epsi.fr/</string>
+    <string name="boissons">Boissons</string>
+    <string name="rayon_2">Rayon 2</string>
+    <string name="rayon_3">Rayon 3</string>
+    <string name="rayon_4">Rayon 4</string>
 </resources>
